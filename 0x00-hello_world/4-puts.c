@@ -5,9 +5,8 @@
 
 #include <stdio.h>
 /**
- * A c program that prints "Programming is like building
- *                         a multilingual puzzle"
- * using command puts
+ *Main: prints "Programming is like building
+ *              a multilingual puzzle"
  * Return:Always 0
  */
 int main(void)
