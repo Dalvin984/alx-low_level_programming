@@ -1,6 +1,14 @@
+/*
+ * File: 0-positive_or_negative.c
+ *
+ * Auth: Dalvin O. Onyango
+ */
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
+
 /* Main: Determinig if a number is negative,positive or zero
  *
  * Return : Always 0
