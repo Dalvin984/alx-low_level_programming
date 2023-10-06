@@ -13,7 +13,7 @@
 int main(void)
 {
 	int j;
-	char j;
+	char i;
 
 	for (j = 0; j < 10; j++)
 		putchar((j % 10) + '0');
