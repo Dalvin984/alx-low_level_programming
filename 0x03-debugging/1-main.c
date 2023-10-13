@@ -10,10 +10,10 @@ int main(void)
         printf("Infinite loop incoming :(\n");
 
         i = 0;
-	/*causes the file to go into infinite loop*/
-        while (i < 10)
+	
+        while (i < 10)/*causes code to infinity*/
         {
-                putchar(i);
+                putchar(i);/*no increament of i*/
         }
 
         printf("Infinite loop avoided! \\o/\n");
