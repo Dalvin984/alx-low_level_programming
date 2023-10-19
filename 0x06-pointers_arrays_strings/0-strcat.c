@@ -1,27 +1,29 @@
-/*
- * File: 0-strcat.c
- * Auth: Dalvin O. Onyango
- */
-
 #include "main.h"
-
 /**
- * _memcpy - Copies @n bytes from the memory area pointed
- *           to by @src into that pointed to by @dest.
- * @dest: A pointer to the memory area to copy @src into.
- * @src: The source buffer to copy characters from.
- * @n: The number of bytes to copy from @src.
+ * _strcat - concatenates two strings
+ * @dest: input value
+ * @src: input value
  *
- * Return: A pointer to the destination buffer @dest.
+ * Return: void
  */
-void *_memcpy(void *dest, const void *src, size_t n)
+char *_strcat(char *dest, char *src)
 {
-	unsigned int index;
-	unsigned char *destination = dest;
-	const unsigned char *source = src;
+	int i;
+	int j;
 
-	for (index = 0; index < n; index++)
-		destination[index] = source[index];
+	i = 0;
+	while (dest[i] != '\0')
+	{
+		i++;
+	}
+	j = 0;
+	while (src[j] != '\0')
+	{
+		dest[i] = src[j];
+		i++;
+		j++;
+	}
 
+	dest[i] = '\0';
 	return (dest);
 }
