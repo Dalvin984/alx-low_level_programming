@@ -14,3 +14,17 @@ On this particular project, I learnt everything I need to know to get started wi
 The following are the tasks that I solved:
 ##### [0-positive_or_negative.c](https://github.com/Dalvin984/alx-low_level_programming/blob/master/0x01-variables_if_else_while/0-positive_or_negative.c)
 This program assigns a random number to the variable n each time it is executed and returns a value to confirm whether a number is positive or negative
+
+##### [1-last_digit.c](https://github.com/Dalvin984/alx-low_level_programming/blob/master/0x01-variables_if_else_while/1-last_digit.c)
+This program assigns a random number to the variable n each time it is executed and prints the last digit of the number stored in the variable n.
+
+#####[2-print_alphabet.c](https://github.com/Dalvin984/alx-low_level_programming/blob/master/0x01-variables_if_else_while/2-print_alphabet.c)
+Writes a program that prints the alphabet in lowercase, followed by a new line.
+
+Only putchar function is used(every other function (printf, puts, etc…) is forbidden)
+Putchar function is only used twice at maximum.
+
+#####[3-print_alphabets.c](https://github.com/Dalvin984/alx-low_level_programming/blob/master/0x01-variables_if_else_while/3-print_alphabets.c)
+Writes a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
+
