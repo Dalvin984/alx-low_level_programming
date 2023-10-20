@@ -12,5 +12,5 @@ On this particular project, I learnt everything I need to know to get started wi
 [While loop](https://intranet.alxswe.com/rltoken/MW4Ob-6JLWt7Zn6vZ0EsBw),
 
 The following are the tasks that I solved:
-##### [0-positive_or_negative.c](0x01-variables_if_else_while/0-positive_or_negative.c)
+##### [0-positive_or_negative.c](https://github.com/Dalvin984/alx-low_level_programming/blob/master/0x01-variables_if_else_while/0-positive_or_negative.c)
 This program assigns a random number to the variable n each time it is executed and returns a value to confirm whether a number is positive or negative
