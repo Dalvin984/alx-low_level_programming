@@ -1,16 +1,14 @@
 /*
  * File: 0-puts_recursion.c
- *
- * Owner : Dalvin O. Onyango
+ * Auth: Dalvin O. Onyango
  */
 
 #include "main.h"
-/*
- * _puts-recursion - Prints  a string followed by new line
- *
- * @s - string  variable
- */
 
+/**
+ * _puts_recursion - Prints a string, followed by a new line.
+ * @s: The string to be printed.
+ */
 void _puts_recursion(char *s)
 {
 	if (*s)
@@ -18,7 +16,7 @@ void _puts_recursion(char *s)
 		_putchar(*s);
 		_puts_recursion(s + 1);
 	}
+
 	else
 		_putchar('\n');
 }
-
