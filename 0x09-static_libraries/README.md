@@ -1,10 +1,10 @@
 #TASKS
 
-In this project, I learnt hw to create a static library using [ar and ranli](https://intranet.alxswe.com/rltoken/XB1iH0qE6gshx0x8TfRAPQ)
-The following files were added to the [libmy.a](https://github.com/Dalvin984/alx-low_level_programming/blob/master/0x09-static_libraries/libmy.a)
-0-isupper.o
-0-memset.o
-0-strcat.o
+In this project, I learnt hw to create a static library using [ar and ranlib](https://intranet.alxswe.com/rltoken/XB1iH0qE6gshx0x8TfRAPQ);
+The following files were added to the [libmy.a](https://github.com/Dalvin984/alx-low_level_programming/blob/master/0x09-static_libraries/libmy.a);
+* '0-isupper.o;'
+* '0-memset.o;'
+* '0-strcat.o;'
 1-isdigit.o
 1-memcpy.o
 1-strncat.o
