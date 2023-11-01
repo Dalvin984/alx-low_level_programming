@@ -61,4 +61,4 @@ You are not allowed to use any functions listed in the NAME section of the man (
 Your program should return 1
 Your program should compile without any warnings when using the -Wall gcc option
 
-[Lets go to Quora](https://www.quora.com)
+
